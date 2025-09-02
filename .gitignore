@@ -1,0 +1,15 @@
+# Ignore the virtual environment folder
+loan_venv/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode or other editor configs 
+.vscode/
+.idea/
+
+# Python cache files
+__pycache__/
+
+# Logs
+*.log
